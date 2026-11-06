@@ -1,0 +1,5 @@
+{
+  "capcut": "Email: {email}\nPassword: {password}\n\nPls remove the space after @ before logging in po.",
+  "netflix": "Email: {email}\nRemove space after @.\nLog in and send a screenshot when asked for a code.\n\nAccount to get code:\nUsername: {username}\nPassword: 1234567891011",
+  "chatgpt": "Email: {email}\nPassword: {password}\n2FA Code: {code_2fa}\nGet 2FA code at: https://2fa.live\n\nPls remove the space after @ before logging in po."
+}
